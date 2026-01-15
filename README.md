@@ -9,7 +9,6 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Amartay-Kumar-Dhar/research)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antukumar/?profileId=ACoAADL_Ql0Bs50XfuJg4Hta0-lgE8fB05jSQb4)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/antukumar/code)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antukumardhar100@gmail.com)
 
 
@@ -117,21 +116,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
-
----
-
 ## 📚 Research Publications
 
 ### 🎯 Published Research
@@ -166,8 +150,6 @@ Statistical analysis of CHD risk factors in Bangladesh
 - 🤰 **Maternal Postnatal Care** → *Scientific Reports* | Machine learning approach with BDHS 2022 data
 - 🍬 **Diabetes Determinants** → *Discover Public Health* | Bayesian statistical modeling
 - 🌍 **Monkeypox Forecasting** → *Journal of Public Health Research* | Ensemble modeling for global predictions
-
-📄 [View Full Publication List](YOUR_RESEARCHGATE_URL)
 
 ---
 
@@ -242,25 +224,5 @@ Statistical analysis of CHD risk factors in Bangladesh
 **🎯 Open to collaborations on:**
 
 🏥 Healthcare AI Solutions | 🧬 Predictive Analytics | 🤖 LLM Applications | 👁️ Computer Vision Projects | 📊 Explainable AI Research
-
-<br>
-
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antukumardhar100@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![View Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### 💭 *"Transforming data into intelligence, one model at a time"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-⭐️ **Made with ❤️ and AI** | [Amartay Kumar Dhar](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
