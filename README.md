@@ -1,228 +1,79 @@
-<div align="center">
+# Amartay Kumar Dhar
 
-# 🚀 Amartay Kumar Dhar
+**Statistics & Data Science | Machine Learning for Public Health | Prospective PhD Student**
 
-### AI Engineer | ML Researcher | Data Scientist
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Researcher;Deep+Learning+Enthusiast;LLM+%26+Generative+AI+Developer;Computer+Vision+Specialist;Explainable+AI+Expert" alt="Typing SVG" />
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Amartay-Kumar-Dhar/research)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antukumar/?profileId=ACoAADL_Ql0Bs50XfuJg4Hta0-lgE8fB05jSQb4)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/antukumar/code)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antukumardhar100@gmail.com)
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
+Jahangirnagar University, Dhaka, Bangladesh
+[ResearchGate](https://www.researchgate.net/profile/Amartay-Kumar-Dhar/research) · [LinkedIn](https://www.linkedin.com/in/antukumar/) · [Email](mailto:antukumardhar100@gmail.com)
 
 ---
 
-## 💫 Who Am I?
+## 1. Research Interests
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- Bayesian statistical modeling (hierarchical/multilevel, spatial & spatio-temporal)
+- Machine learning for public health and epidemiology using BDHS and national survey data
+- Explainable AI (SHAP, LIME) for clinical and policy-relevant prediction models
+- Survival analysis, GLMMs, and survey-weighted estimation
 
-🎓 **MSc Student** in Statistics & Data Science  
-🔬 **Research Assistant** @ Jahangirnagar University  
-🤖 **AI Engineer** specializing in Healthcare ML  
-📊 **Published Researcher** in international journals  
+## 2. Education
 
-🌟 **Currently Exploring:**
-- 🧠 Large Language Models & Generative AI
-- 👁️ Computer Vision & Object Detection
-- 🔍 Explainable AI & Model Interpretability
-- 🤝 AI Agents & LangChain Applications
+**M.Sc. in Statistics and Data Science** — Jahangirnagar University (Jul 2024 – Sept 2025)
+GPA: 3.14 / 4.00
 
-💡 **Mission:** Building intelligent systems that transform data into actionable insights for healthcare and social impact
+**B.Sc. (Honors) in Statistics and Data Science** — Jahangirnagar University (Feb 2019 – Jun 2024)
+CGPA: 3.31 / 4.00
 
-<br clear="right"/>
+## 3. Research Experience
 
----
+**Research Assistant**, Jahangirnagar University — *Oct 2024–Present*
+Supervisor: Prof. Md. Moyazzem Hossain. Statistical analysis in Python, R, and Stata; manuscript preparation for peer-reviewed publication.
 
-## 🛠️ Tech Arsenal
+**Quantitative Data Enumerator**, Bangladesh Institute of Governance and Management — *Sept–Oct 2025*
+Revised questionnaires; collected primary data from women across 32 villages in two divisions of Bangladesh.
 
-<div align="center">
+**Research Assistant**, Center for Development Evaluation — *Apr 2023–May 2025*
+BDHS-based research using Stata/R; data analysis, visualization, and interpretation for policy-driven studies.
 
-### 🧠 AI/ML Frameworks & Tools
+## 4. Publications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+**Published**
+1. Dhar, A. K., & Akther, S. (2025). Determinants of maternal postnatal care in Bangladesh: a machine learning approach with BDHS 2022 data. *PLOS ONE*. [DOI](https://doi.org/10.1371/journal.pone.0350188)
+2. Akther, S., Dhar, A. K., & Pingky, J. S. (2025). Combination forecasting of COVID-19 in Bangladesh: integrated time series, ML, and DL models. *BMC Infectious Diseases*. [DOI](https://doi.org/10.1186/s12879-025-12305-3)
+3. Hassan, M. S., Pingky, J. S., Dhar, A. K., et al. (2026). Bayesian-optimized machine learning models for classifying metabolic syndrome control among NCD patients in Bangladesh hospitals. *Scientific Reports*. [DOI](https://doi.org/10.1038/s41598-026-59451-5)
+4. Mumtaj, M., Dhar, A. K., Sathi, S. T., Hasan, M. M., & Khan, T. (2024). Association between coronary heart disease and tobacco consumption in Bangladesh. *International Journal of Science and Development*, 1(1), 40–50. [DOI](https://doi.org/10.5281/zenodo.13956301)
 
-### 📊 Data Science & Analytics
+**Under Review**
+5. Determinants of diabetes in Bangladesh: a Bayesian perspective using BDHS 2022 data — *Discover Public Health*
+6. Risk factors and prediction of computer vision syndrome among primary school students via SHAP, LIME, and Bayesian-optimized ML — *BMJ Global Health*
+7. Predicting infant mortality using Bayesian-optimized ML and explainable AI — *BMC Medical Informatics and Decision Making*
+8. Determinants of cesarean section in Bangladesh: frequentist vs. Bayesian approaches with BDHS 2022 data — *PLOS ONE*
+9. Ensemble modeling for global forecasting of monkeypox incidence — *Applied Computational Intelligence and Soft Computing*
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
+## 5. Selected Projects
 
-</div>
+**Leveraging AI to Strengthen Health Service Governance** — BIGM (*May–Jul 2026*)
+Structured questionnaire design; field survey coordination; SEM-based governance-outcome analysis in Excel, Stata, and SmartPLS.
 
----
+**AI/ML-Enabled Platform Capability & Accountable SDG-16 Governance** — BIAM (*Mar–May 2026*)
+Survey of 224 government officials across 3 divisions, 6 districts, 11 upazilas; PLS-SEM (TOE framework) testing 16 hypotheses, including serial mediation and multi-group analysis.
 
-## 🎯 AI Expertise
+**MediVision-AI** — Personal project (*Jan 2026*)
+Multimodal medical assistant combining vision, voice, and LLM components for intelligent clinical interaction.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 6. Skills
 
-### 🤖 Machine Learning
-- **Classical ML:** Random Forest, XGBoost, SVM, Ensemble Methods
-- **Deep Learning:** CNNs, RNNs, Transformers, Neural Networks
-- **Optimization:** Bayesian Optimization, Grid Search, Hyperparameter Tuning
+- **Machine Learning:** ensemble/stacking models, Boruta feature selection, SMOTE/ADASYN, Optuna hyperparameter optimization, SHAP/LIME
+- **Statistical Methods:** hierarchical/multilevel Bayesian modeling, GLM(M)s, survival analysis, spatial & spatio-temporal statistics, time series forecasting, survey sampling, PLS-SEM
+- **GIS & Mapping:** QGIS, R (`sf`, `tmap`, `leaflet`)
+- **Toolkit:** Python (`pandas`, `scikit-learn`, `statsmodels`, `PyTorch`), R (`tidyverse`, `brms`, `CARBayesST`, `bmstdr`, `survey`), Stata, SPSS, LaTeX
 
-### 💬 Natural Language Processing
-- **LLMs:** GPT, BERT, T5, Fine-tuning
-- **Frameworks:** Hugging Face, LangChain, Prompt Engineering
-- **Tasks:** Text Classification, Sentiment Analysis, NER
+## 7. Teaching & Leadership
 
-</td>
-<td width="50%" valign="top">
+- Instructor, *R for Researchers: Unlocking Data-Driven Discovery*, JUHSC (May 2025) — 150+ participants
+- Mathematics & ICT Instructor, GTFC School and College (2021)
+- Deputy Youth Leader, Red Crescent Youth, JU (2025–Present)
+- Joint Secretary, JU Higher Study Club (2023–2024)
 
-### 👁️ Computer Vision
-- **Object Detection:** YOLO v5/v8, R-CNN, Fast R-CNN
-- **Image Processing:** OpenCV, PIL, Image Segmentation
-- **Applications:** Real-time Detection, Face Recognition, Color Tracking
+## 8. Honors
 
-### 🔍 Explainable AI
-- **Model Interpretability:** SHAP, LIME
-- **Feature Analysis:** Feature Importance, Permutation Importance
-- **Model-Agnostic Explanations:** Local & Global Interpretability
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 Featured AI Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| 🎨 **Real-Time Color Detection System** | Advanced computer vision system with multi-object tracking | `OpenCV` `NumPy` `Pillow` `Python` |
-| 🤖 **COVID-19 Forecasting Model** | Ensemble ML/DL model combining time series, LSTM & transformers | `PyTorch` `scikit-learn` `Statsmodels` |
-| 👁️ **Computer Vision Syndrome Predictor** | ML model with SHAP/LIME explainability for CVS risk assessment | `XGBoost` `SHAP` `LIME` `Bayesian Opt` |
-| 🏥 **Infant Mortality Prediction** | Explainable AI system for healthcare policy insights | `Random Forest` `SHAP` `Bayesian Opt` |
-| 🧠 **Maternal Health AI** | Multi-class classification using ensemble learning | `LightGBM` `CatBoost` `Neural Networks` |
-
-</div>
-
----
-
-## 📚 Research Publications
-
-### 🎯 Published Research
-
-<table>
-<tr>
-<td width="50%">
-
-**🦠 COVID-19 Forecasting**  
-*BMC Infectious Diseases (2025)*  
-Ensemble time series, ML & DL models for pandemic prediction
-
-[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12879--025--12305--3-blue?style=flat-square)](https://doi.org/10.1186/s12879-025-12305-3)
-
-</td>
-<td width="50%">
-
-**❤️ Coronary Heart Disease & Tobacco**  
-*International Journal of Science & Development (2024)*  
-Statistical analysis of CHD risk factors in Bangladesh
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.13956301-blue?style=flat-square)](https://doi.org/10.5281/zenodo.13956301)
-
-</td>
-</tr>
-</table>
-
-### 🚀 Under Review (Top-Tier Journals)
-
-- 👁️ **Computer Vision Syndrome Prediction** → *BMJ Global Health* | ML models with SHAP, LIME & Bayesian optimization
-- 👶 **Infant Mortality Prediction** → *BMC Medical Informatics* | Explainable AI for healthcare policy insights
-- 🤰 **Maternal Postnatal Care** → *Scientific Reports* | Machine learning approach with BDHS 2022 data
-- 🍬 **Diabetes Determinants** → *Discover Public Health* | Bayesian statistical modeling
-- 🌍 **Monkeypox Forecasting** → *Journal of Public Health Research* | Ensemble modeling for global predictions
-
----
-
-## 💼 Professional Journey
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-**🔬 Research Assistant** | Jahangirnagar University | *Oct 2024 - Present*
-- Statistical analysis using Python, R, and Stata for cutting-edge research
-- Machine learning model development & deployment for healthcare applications
-- Academic manuscript preparation & publication in top-tier journals
-
-**📊 Quantitative Data Enumerator** | Bangladesh Institute of Governance and Management | *Aug 2025 - Oct 2025*
-- Primary data collection across 32 villages in two divisions of Bangladesh
-- Survey design optimization & questionnaire development
-
-**📈 Research Assistant** | Center for Development Evaluation | *Jan 2024 - Dec 2024*
-- BDHS-based ML research using Stata and R for policy-driven insights
-- Data visualization, analysis & interpretation for social impact studies
-
----
-
-## 🏆 Achievements & Impact
-
-<div align="center">
-
-| 📊 Metric | 🎯 Value |
-|:---------:|:-------:|
-| 📝 Published Papers | **3+** |
-| 📤 Papers Under Review | **8+** |
-| 🤖 ML Models Developed | **15+** |
-| 📊 Data Points Analyzed | **500K+** |
-| 🎤 Conference Presentations | **2** |
-| 🏅 Workshop Conducted | **1** |
-
-</div>
-
----
-
-## 🎓 Education & Leadership
-
-<table>
-<tr>
-<td width="60%">
-
-### 📚 Academic Background
-- **MSc in Statistics & Data Science** | Jahangirnagar University *(2024 - Present)*
-- **BSc in Statistics & Data Science** | Jahangirnagar University *(2019 - 2024)*
-
-</td>
-<td width="40%">
-
-### 👥 Leadership Roles
-- **Deputy Youth Leader** | Red Crescent Youth
-- **Joint Secretary** | JU Higher Study Club
-- **Workshop Instructor** | R for Researchers
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Let's Build Together!
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-### I'm passionate about building AI solutions that create real-world impact!
-
-**🎯 Open to collaborations on:**
-
-🏥 Healthcare AI Solutions | 🧬 Predictive Analytics | 🤖 LLM Applications | 👁️ Computer Vision Projects | 📊 Explainable AI Research
-
-</div>
+- University Supplementary Scholarship, Jahangirnagar University
+- Top 25, National Disaster Hackathon 2.0 (Forewarn Bangladesh)
