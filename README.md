@@ -15,18 +15,6 @@
 
 ---
 
-## 00 · `whoami`
-
-```bash
-$ whoami
-Amartay Kumar Dhar — MSc, Statistics & Data Science, Jahangirnagar University
-
-$ current_status
-Research Assistant @ JU  ·  applying for PhD positions
-
-$ research_focus
-Bayesian modeling · Explainable AI (SHAP/LIME) · ML for public health (BDHS data)
-```
 
 <br>
 
