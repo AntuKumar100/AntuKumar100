@@ -23,8 +23,8 @@
 ![Bayesian](https://img.shields.io/badge/Bayesian_Statistics-6A5ACD?style=flat-square)
 ![Spatio-Temporal](https://img.shields.io/badge/Spatio--Temporal_Modeling-6A5ACD?style=flat-square)
 ![XAI](https://img.shields.io/badge/Explainable_AI-2E86C1?style=flat-square)
-![Human Computer Interaction](https://img.shields.io/badge/Public_Health_ML-2E86C1?style=flat-square)
-![Public Health](https://img.shields.io/badge/Survival_Analysis-16A085?style=flat-square)
+![Human Computer Interaction](https://img.shields.io/badge/Human__Computer__Interaction-2E86C1?style=flat-square)
+![Public Health](https://img.shields.io/badge/Public_Health_ML-2E86C1?style=flat-square)
 ![Survey](https://img.shields.io/badge/Survey_%26_Weighted_Estimation-16A085?style=flat-square)
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
